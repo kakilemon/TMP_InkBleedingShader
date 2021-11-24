@@ -1,0 +1,3 @@
+# TMP_InkBleedingShader
+
+TextMesh Proの文字をインクがにじんだような雰囲気に変えるシェーダーのデモです。
